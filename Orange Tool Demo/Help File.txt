@@ -1,7 +1,10 @@
-First of all, you need to download the Orange tool. It provides some datasets that can be used. After downloading, navigate to the following location:
+First of all, you need to download the Orange tool. It provides some datasets that can be used. 
+After downloading, navigate to the following location:
 go to Orange when you download -> Lib -> site-packages -> Orange -> datasets
 
-When you open any file, please ensure you first check the File widget to determine which file is being used. Then, check the Data Table widget to understand how the file is processed.
+When you open any file, please ensure you first check the File widget 
+to determine which file is being used. Then, check the Data Table widget
+to understand how the file is processed.
 
 For further help, you can access this YouTube playlist:
 https://www.youtube.com/playlist?list=PLiOBAYiI6xJihukmMBvtT35bn-zhy1TVx
@@ -9,4 +12,6 @@ https://www.youtube.com/playlist?list=PLiOBAYiI6xJihukmMBvtT35bn-zhy1TVx
 Alternatively, visit the Orange Data Mining website:
 https://orangedatamining.com/getting-started
 
-On this website, you can download the Orange tool. When you scroll down, you will find the Widget Catalog. Click on it to view all available widgets. Clicking on any widget will provide a description to help you understand its functionality.
+On this website, you can download the Orange tool. When you scroll down, 
+you will find the Widget Catalog. Click on it to view all available widgets. 
+Clicking on any widget will provide a description to help you understand its functionality.
